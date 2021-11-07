@@ -1,0 +1,36 @@
+[
+	{
+		"Name":"Vladislav",
+		"Surname":"Korenkov",
+		"Birthdate":"01.12.2001",
+		"Lives in":"7.1",
+		"Favorite items":[
+			"Onion",
+			"Mayonnaise",
+			"Polina",
+			"Efremov"
+		]
+	},
+	{
+		"Name":"Polina",
+		"Surname":"Kalinichenko",
+		"Birthdate":"29.10.2001",
+		"Lives in":"1.10",
+		"Favorite items":[
+			"Cheese",
+			"Vlad"
+		]
+	},
+	{
+		"Name":"Danya",
+		"Surname":"Izotov",
+		"Lives in":"9",
+		"Favorite items":[
+			"Programming",
+			"Games"
+		]
+	},
+	{
+		
+	}
+]
